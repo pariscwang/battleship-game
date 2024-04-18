@@ -31,7 +31,7 @@ JavaScript (ES6)
 
 *How to Set Up Locally*
 
-Clone the repository: git clone [repository_url]
+Clone the repository: git clone [www.github.com/pariscwang/battleship-game]
 cd battleship-game
 Open index.html in a web browser.
 
